@@ -5,7 +5,7 @@ Used NASA API to fetch wildfire data including locations.
 ## Clone this repository:
 
 ```
-git clone git@github.com:Squarespace/base-template-npm.git
+git clone https://github.com/ankitnimje/wildfire-tracker.git
 ```
 
 ## Available Scripts
