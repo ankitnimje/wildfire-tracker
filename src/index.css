@@ -9,7 +9,7 @@ body {
 .header {
   padding: 15px;
   font-family: 'Raleway', sans-serif;
-  background-color: transparent;
+  background-color: #222222;
   color: #2364AA;
   position: fixed;
   top: 0;
